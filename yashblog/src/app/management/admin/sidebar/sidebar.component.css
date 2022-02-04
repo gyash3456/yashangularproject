@@ -1,0 +1,14 @@
+ul{
+    margin:0px;
+    padding:0px;
+    list-style: none;
+    color:aliceblue;
+}
+ul li{
+    display: block;
+    border-bottom: 1px solid #004044;
+    padding: 18px;
+}
+ul li:hover{
+    background-color: #004044;
+}

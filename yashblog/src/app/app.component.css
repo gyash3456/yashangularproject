@@ -1,0 +1,15 @@
+
+.admin-wrapper{
+    display: flex;
+    height: 89vh;
+}
+.admin-wrapper .sidebar{
+    flex:2;
+    height: 100%;
+    background-color: #234a57;
+
+}
+.admin-wrapper .admin-content{
+    flex:8;
+    height:100%;
+}

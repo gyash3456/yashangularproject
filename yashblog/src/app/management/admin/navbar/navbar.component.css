@@ -1,0 +1,11 @@
+.nav{
+background-color: #01474a;
+display: flex;
+justify-content: space-between;
+align-items: center;
+height: 4vh;
+}
+.nav>label{
+    color:white;
+    padding: 0 1vw;
+}
